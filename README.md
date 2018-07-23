@@ -5,7 +5,7 @@
 
 **Nodebeats** makes it easy to create web sites and applications and comes with beautiful admin UI.
 
-Check out the [**Nodebeats Getting Started Guide**](http://www.nodebeats.com/getting-started) to start using Nodebeats.
+Check out the [**Nodebeats Getting Started Guide**](http://www.nodebeats.com/documentation/getting-started) to start using Nodebeats.
 
 ## About
 **Nodebeats** provides following features:
@@ -23,9 +23,9 @@ Check out the [**Nodebeats Getting Started Guide**](http://www.nodebeats.com/get
 
 ## **Usage**
 
-For detailed usage documentation, Check out the [**Nodebeats Getting Started Guide**](http://www.nodebeats.com/getting-started) to start using Nodebeats
+For detailed usage documentation, Check out the [**Nodebeats Getting Started Guide**](http://www.nodebeats.com/documentation/getting-started) to start using Nodebeats
 
-For api documentation, Check out the  [**API Documentation**](http://www.nodebeats.com/docs/api/)
+For api documentation, Check out the  [**API Documentation**](http://www.nodebeats.com/apidoc/)
 
 ## **Installation**
 * Install Node.js  if not already installed
