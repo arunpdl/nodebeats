@@ -39,7 +39,7 @@
     "cloudinary-jquery": "^2.1.6",
     "core-js": "^2.4.1",
     "hammerjs": "^2.0.8",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "moment": "^2.21.0",
     "ng2-charts": "^1.6.0",
     "popper.js": "^1.14.1",
