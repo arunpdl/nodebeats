@@ -42,7 +42,7 @@
   },
   "dependencies": {
     "@types/es6-promise": "3.3.0",
-    "bcrypt": "^1.0.3",
+    "bcrypt": "^5.0.0",
     "bluebird": "^3.5.0",
     "body-parser": "^1.17.1",
     "cloudinary": "^1.8.0",
