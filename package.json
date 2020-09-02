@@ -60,7 +60,7 @@
     "express-validator": "5.0.3",
     "file-stream-rotator": "0.2.1",
     "geoip-lite": "^1.2.0",
-    "googleapis": "27.0.0",
+    "googleapis": "39.1.0",
     "handlebars-paginate": "^0.1.0",
     "helmet": "^3.5.0",
     "hpp": "^0.2.1",
