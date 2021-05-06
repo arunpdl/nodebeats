@@ -88,7 +88,7 @@
     "redis": "^2.7.1",
     "request": "^2.81.0",
     "request-ip": "^2.0.2",
-    "sanitize-html": "^1.14.1",
+    "sanitize-html": "^2.3.2",
     "speakeasy": "^2.0.0",
     "tether": "^1.4.0",
     "useragent": "^2.1.13"
